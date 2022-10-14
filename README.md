@@ -31,7 +31,7 @@ Run the program to determine the number of words in the file created.
 
 ## PROGRAM:
 ```python
-Program to sort the elements in the list using the Selection Sort algorithm.
+Python program for getting the word count from the contents of a file using command line arguments.
 Developed by: DHARSHAN V
 RegisterNumber: 22003103
 
