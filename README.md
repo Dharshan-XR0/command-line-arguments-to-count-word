@@ -1,10 +1,15 @@
 # command-line-arguments-to-count-word
+
 ## AIM:
+
 To write a python program for getting the word count from the contents of a file using command line arguments.
-## EQUIPEMENT'S REQUIRED: 
-PC
-Anaconda - Python 3.7
+
+## Equipments Required:
+1. Hardware – PCs
+2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
+
 ## ALGORITHM: 
+
 ### Step 1: 
 
 Import the sys module
